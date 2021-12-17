@@ -1,0 +1,2 @@
+rootProject.name = "CamMovi1"
+include ':app'
